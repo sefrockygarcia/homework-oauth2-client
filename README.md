@@ -18,3 +18,4 @@ As an OAuth Client, I need to connect to an OAuth Provider so that I can share m
  3. Run `rails db:create db:migrate db:seed`
  4. Default user is `admin@example.com` `password`
  5. Run `rails server -p 3001`
+ 6. Demo video [here](https://drive.google.com/file/d/1iaNihKpNIVmPJkHq_t4RcTUQ354MMV8a/view?usp=sharing)
